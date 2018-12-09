@@ -1,0 +1,7 @@
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\bin\Debug\ConsoleApp Odtwarzacz.exe.config
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\bin\Debug\ConsoleApp Odtwarzacz.exe
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\bin\Debug\ConsoleApp Odtwarzacz.pdb
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\obj\Debug\ConsoleApp Odtwarzacz.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\obj\Debug\ConsoleApp Odtwarzacz.exe
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\obj\Debug\ConsoleApp Odtwarzacz.pdb
+C:\Users\Maciej\source\repos\ConsoleApp Odtwarzacz\ConsoleApp Odtwarzacz\obj\Debug\ConsoleApp Odtwarzacz.csprojAssemblyReference.cache
